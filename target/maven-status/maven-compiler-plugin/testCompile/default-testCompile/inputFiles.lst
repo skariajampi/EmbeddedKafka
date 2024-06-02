@@ -1,0 +1,6 @@
+/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/test/java/com/codenotfound/kafka/serializer/AvroSerializerTest.java
+/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/test/java/com/codenotfound/kafka/serializer/CustomKafkaAvroSerializer.java
+/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/test/java/com/codenotfound/kafka/serializer/AvroDeserializerTest.java
+/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/test/java/com/codenotfound/kafka/SpringEmbeddedKafkaTest.java
+/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/test/java/com/codenotfound/kafka/SpringKafkaApplicationTest.java
+/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/test/java/com/codenotfound/kafka/serializer/CustomKafkaAvroDeserializer.java
