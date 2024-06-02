@@ -1,6 +1,0 @@
-com/codenotfound/kafka/serializer/CustomKafkaAvroSerializer.class
-com/codenotfound/kafka/serializer/CustomKafkaAvroDeserializer$1.class
-com/codenotfound/kafka/serializer/CustomKafkaAvroDeserializer.class
-com/codenotfound/kafka/SpringEmbeddedKafkaTest.class
-com/codenotfound/kafka/serializer/AvroSerializerTest.class
-com/codenotfound/kafka/serializer/AvroDeserializerTest.class

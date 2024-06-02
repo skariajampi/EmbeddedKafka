@@ -1,9 +1,0 @@
-/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/main/java/com/codenotfound/kafka/serializer/CustomKafkaAvroSerializer.java
-/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/target/generated/avro/example/avro/User.java
-/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/main/java/com/codenotfound/kafka/producer/Sender.java
-/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/main/java/com/codenotfound/kafka/serializer/AvroSerializer.java
-/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/main/java/com/codenotfound/kafka/consumer/Receiver.java
-/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/main/java/com/codenotfound/kafka/serializer/AvroDeserializer.java
-/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/main/java/com/codenotfound/kafka/SpringKafkaApplication.java
-/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/main/java/com/codenotfound/kafka/producer/SenderConfig.java
-/Volumes/Nvme-SSD-WD/tutorials/kafka/spring-kafka-avro/src/main/java/com/codenotfound/kafka/consumer/ReceiverConfig.java
